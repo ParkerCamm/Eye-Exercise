@@ -1,2 +1,2 @@
 # Eye-Exercise
-the eye exercise was a real hoot. we made the eye move and fourth to follow your curser and dreams ha.ha.. 
+This project was a real hoot, we made it so the eye would follow your curser as it moved across the screen. 
